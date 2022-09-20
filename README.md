@@ -16,14 +16,14 @@
 </br>
 <h2> Most used languages</h2>
 </hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniatou&theme=radical&show_icons=true&locale=en&layout=compact" alt="daniatou" width: 100% /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniatou&theme=radical&show_icons=true&locale=en&layout=compact" alt="daniatou" /></p>
 </br>
 <h2> My Github's stats</h2>
 </hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniatou&theme=radical&show_icons=true&locale=en" alt="daniatou" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=daniatou&theme=radical&show_icons=true&locale=en" alt="daniatou" /></p>
 <h2> Trophy</h2>
 </hr>
-<p align="left" style""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
 
 https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true
 
