@@ -23,7 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniatou&theme=radical&show_icons=true&locale=en" alt="daniatou" /></p>
 <h2> Trophy</h2>
 </hr>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou&theme=monokai&column=3&margin-w=15&margin-h=15" alt="daniatou" /></a> </p>
 
 https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true
 
