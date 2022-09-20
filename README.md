@@ -14,12 +14,15 @@
 - 👩🏽‍🍳 I also enjoy **cooking and baking**
 
 </br>
-<h2> My Github stats</h2>
+<h2> Most use languages</h2>
 </hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniatou&show_icons=true&locale=en&layout=compact" alt="daniatou" /></p>
-
+</br>
+<h2> My Github stats</h2>
+</hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniatou&show_icons=true&locale=en" alt="daniatou" /></p>
-
+<h2> Trophy</h2>
+</hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
 
 <h3 align="left">Do you want to connect with me?</h3>
