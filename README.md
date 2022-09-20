@@ -9,21 +9,23 @@
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on projects that are using Angular.**
 
-- 📫 How to reach me **daniatoudjibril@gmail.com**
+- 📫 This is how to reach me **daniatoudjibril@gmail.com**
 
 - 👩🏽‍🍳 I also enjoy **cooking and baking**
 
 </br>
-<h2> Most use languages</h2>
+<h2> Most used languages</h2>
 </hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniatou&show_icons=true&locale=en&layout=compact" alt="daniatou" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniatou&theme=radical&show_icons=true&locale=en&layout=compact" alt="daniatou" width: 100% /></p>
 </br>
-<h2> My Github stats</h2>
+<h2> My Github's stats</h2>
 </hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniatou&show_icons=true&locale=en" alt="daniatou" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniatou&theme=radical&show_icons=true&locale=en" alt="daniatou" /></p>
 <h2> Trophy</h2>
 </hr>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
+<p align="left" style""> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
+
+https://github-readme-stats.vercel.app/api?username=Piscarocarlos&theme=cobalt&show_icons=true&hide=contribs,prs&count_private=true
 
 <h3 align="left">Do you want to connect with me?</h3>
 <p align="left">
