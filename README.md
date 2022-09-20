@@ -1,8 +1,10 @@
-<h1 align="center">Hey! 👋, I'm Daniatou Djibril</h1>
-<h3 align="center">I used to be amazed when I saw people coding.So I made it a passion. And now I'm a web trainer at @3WA👌👌👌.</h3>
+<h2> About</h2>
+</hr>
+<p>Hey! 👋, I'm Daniatou Djibril</p>
+<p>I used to be amazed when I saw people coding.So I made it a passion. And now I'm a web trainer at @3WA👌👌👌.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
 
+ 🤹🏽‍♀️ Fun fact:
 - 🌱 I’m currently learning **Spring & Devops**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on projects that are using Angular.**
@@ -10,6 +12,8 @@
 - 📫 How to reach me **daniatoudjibril@gmail.com**
 
 - 👩🏽‍🍳 I also enjoy **cooking and baking**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniatou" alt="daniatou" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
