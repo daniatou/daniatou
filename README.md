@@ -1,13 +1,13 @@
 <h2> About</h2>
 </hr>
 <p>Hey! 👋, I'm Daniatou Djibril</p>
-<p>I used to be amazed when I saw people coding, so I made it a passion. And now I'm a web trainer at @3WA👌👌👌.</p>
+<p>I used to be amazed when I saw people coding, so I made it a passion. And now I'm a web developper at Roots club 👌👌👌.</p>
 
 
  🤹🏽‍♀️ Fun fact:
 - 🌱 I’m currently learning **Spring & Devops**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on projects that are using Angular.**
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on projects that are using Reactjs.**
 
 - 📫 This is how to reach me **daniatoudjibril@gmail.com**
 
