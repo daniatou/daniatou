@@ -5,7 +5,7 @@
 
 
  🤹🏽‍♀️ Fun fact:
-- 🌱 I’m currently learning **Spring & Devops**
+- 🌱 I’m currently learning **Laravel**
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on projects that are using Reactjs.**
 
